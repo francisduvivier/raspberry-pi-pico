@@ -1,3 +1,4 @@
+# To use this file, upload it to your raspberry pi pico using the Thonny IDE.
 from machine import Pin
 import time
 pins = [Pin(14, Pin.OUT), Pin(15,Pin.OUT), Pin(16,Pin.OUT), Pin(17,Pin.OUT)]
